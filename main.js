@@ -82,7 +82,7 @@ function chartInfo(){
  textSize(30);
  textAlign(LEFT);
  fill('gold');
- text(" Ìgbín", width/7.5,height/5.5-120,width/4)
+ text(" ÌgbínÌgbín", width/7.5,height/5.5-120,width/4)
  textSize(15);
  textAlign(LEFT);
  fill('gold');
