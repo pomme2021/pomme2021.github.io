@@ -86,7 +86,7 @@ function chartInfo(){
  textSize(15);
  textAlign(LEFT);
  fill('gold');
- text("A visual design that references the Yorùbá creation story where, thanks to Ọbàtálá, the snail’s shell is made an integral part of the earth’s creation. This shell doubles as an ancient compass, astrolabe and calculator. If you scroll along the edges of the shell, numbers are converted into its binary equivalent using either 0 or 1. This feature references the binary system within the Ifa Corpus which consists of 256 odus (which represents the number of possible values that can be represented by 8 bits). In Ifa, “open and closed shells” used in divination readings are akin to the ‘0’s and 1’s” used in the binary system that created our current computational realities.", width/7.5,height/3.5-120,width/4)
+ text("A visual design that references the Yorùbá creation story where, thanks to Ọbàtálá, the snail’s shell is made an integral part of the earth’s creation. This shell doubles as an ancient astrolabe and calculator. If you scroll along the edges of the shell, numbers are converted into its binary equivalent using either 0 or 1. This feature references the binary system within the Ifa Corpus which consists of 256 odus (which represents the number of possible values that can be represented by 8 bits). In Ifa, “open and closed shells” used in divination readings are akin to the ‘0’s and 1’s” used in the binary system that created our current computational realities.", width/7.5,height/3.5-120,width/4)
 }
 
 let dataMin, dataMax=0;
